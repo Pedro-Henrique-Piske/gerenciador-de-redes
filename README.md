@@ -77,17 +77,16 @@ GerenciadorDeRedes
 
 ## 📂 5. Estrutura de Pacotes
 
-Sistema_de_Redes/
-└── src/
-├── controller/
-│ └── GerenciadorController.java
-├── model/
-│ ├── Dispositivo.java
-│ ├── GerenciadorDeRedes.java
-│ ├── Rede.java
-│ └── StatusDispositivo.java
-└── view/
-└── Main.java
+Sistema_de_Redes/src/
+**1.** controller/
+**1.1.** -GerenciadorController.java
+**2.** model/
+**2.1** -Dispositivo.java
+**2.2** -GerenciadorDeRedes.java
+**2.3** -Rede.java
+**2.4** -StatusDispositivo.java
+**3.** view/
+**3.1.** -Main.java
 
 
 ---
