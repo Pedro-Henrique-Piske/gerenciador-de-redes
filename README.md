@@ -3,8 +3,8 @@
 Este é um **projeto acadêmico em Java** que simula um sistema de gerenciamento de redes e dispositivos por meio de uma interface de console.  
 O objetivo principal é **aplicar e demonstrar os conceitos de Programação Orientada a Objetos (POO)** e do **padrão de arquitetura Model-View-Controller (MVC)**.
 
-📅 **Data:** Outubro de 2025  
-👤 **Autor:** [Seu Nome Completo Aqui]
+📅 **Data:** 23 Outubro de 2025  
+👤 **Autores:** Pedro Henrique Piske & Lucas Stibbe
 
 ---
 
